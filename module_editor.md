@@ -222,5 +222,6 @@ standard Alaya ERP modules.
 
 ## Related Pages
 
+- [Plugin (Blank Menu)](plugin.md)
 - [User Defined Field](user_defined_field.md)
 - [API Access](api_access.md)
