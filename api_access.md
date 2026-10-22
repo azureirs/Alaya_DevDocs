@@ -73,7 +73,7 @@ the correct API URL before making any other calls.
 Note: Always resolve the API URL dynamically via this endpoint rather than hardcoding it. The assigned server may change when a client is migrated.
 ```
 ## Documentation
-API Endpoints Documentation can be accessed [here](https://documenter.getpostman.com/view/6739034/2sA3sAhnyd#4b4691ac-a0b6-409f-a274-45c95b600ee0/).
+API Endpoints Documentation can be accessed [here](https://www.irs-alaya.com/apidocs/index.html).
 
 ## Related Pages
 
