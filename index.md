@@ -28,3 +28,4 @@ connectivity, and mobile app access.
 | Reporting | Reporting tool which support self designing |
 | API | REST APIs for mobile apps and third-party integration |
 | Customisation | [Module Editor](module_editor.md) for no-code custom module creation |
+| Automation | [Automation](automation.md) workflows: scheduled reports, reorder advice, [webhooks](automation_webhooks.md) |
