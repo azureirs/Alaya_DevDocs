@@ -417,6 +417,10 @@ Hosting requirements:
 - Answer `ALAYA_INIT` with `ALAYA_READY` within 10 seconds of the tab
   opening, so keep your initial page light and do heavy work afterwards.
 
+An AI assistant can write the page and a backend that keeps your DevKey,
+and publish them on Vercel or Cloudflare. See
+[Plugin Hosting with an AI Assistant](plugin_hosting.md).
+
 ### Step 6 — Configure the Plugin menu
 
 1. In the Module Editor, click the menu's **Details** button. The
@@ -529,6 +533,7 @@ in-product text. It is the binding version.
 
 ## Related Pages
 
+- [Plugin Hosting with an AI Assistant](plugin_hosting.md)
 - [Module Editor](module_editor.md)
 - [User Defined Field](user_defined_field.md)
 - [API Access](api_access.md)
