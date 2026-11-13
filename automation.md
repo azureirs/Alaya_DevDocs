@@ -406,3 +406,6 @@ time is charged to the client's **automation credit**:
 - A whole run is never retried automatically, because that would repeat
   emails and documents that were already sent or saved. Run it again with
   **Run Now** instead.
+
+To list, create and run workflows from another program, see the
+[Automation API](automation_api.md).

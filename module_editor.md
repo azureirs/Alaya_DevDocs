@@ -222,6 +222,7 @@ standard Alaya ERP modules.
 
 ## Related Pages
 
+- [Module Editor API](module_editor_api.md): create a whole module, and read and write its records
 - [Plugin (Blank Menu)](plugin.md)
 - [User Defined Field](user_defined_field.md)
 - [API Access](api_access.md)
